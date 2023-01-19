@@ -1,0 +1,110 @@
+{"Oak": 
+    {"spirally_arranged_leaves" : true,
+    "flowers" : true,
+    "25feet" : false,
+    "leaves_with_smooth_margins" :true,
+    "50_70_feet" : true,
+    "65-200_feet": false,
+    "needles"  : false,
+    "small"  : false,
+    "big"  : true,
+    "produce_edible_food" : false,
+    "acorns_or_cones" : true,
+    "sprout_in_clusters" : true},
+
+ 
+ "Fir":
+    {"spirally_arranged_leaves" :false,
+    "25feet": false, 
+    "flowers": true,
+    "leaves_with_smooth_margins": true,
+    "50_70_feet" : true,
+    "65-200_feet" : false, 
+    "needles" : true,
+    "small"  : false,
+    "big"  : true,
+    "produce_edible_food"  : false,
+    "acorns_or_cones" : true,
+    "sprout_in_clusters" : false },
+ 
+"Tilia": {
+    "spirally_arranged_leaves" : false,
+    "25feet" : false, 
+    "flowers" : true,
+    "leaves_with_smooth_margins" : true,
+    "50-65_feet" : false,
+    "65-200_feet" : true,
+    "needles" : false,
+    "small"  : false,
+    "big"  : true,
+    "produce_edible_food" : true,
+    "acorns_or_cones" : true,
+    "sprout_in_clusters" :false },
+
+ "Spruce": {
+    "spirally_arranged_leaves" : false,
+    "25feet" : false, 
+    "flowers" : true,
+    "leaves_with_smooth_margins" : false,
+    "50-65_feet " :false,
+    "65-200_feet" :  true, 
+    "needles" : true,
+    "small" : false,
+    "big" : true,
+    "produce_edible_food" : true,
+    "acorns_or_cones" : true,
+    "sprout_in_clusters" : false
+
+ },
+ "larch": {
+    "spirally_arranged_leaves" : false,
+    "25feet" : true, 
+    "flowers" : false,
+   "leaves_with_smooth_margins" : false,
+    "50-65_feet " :false,
+    "65-200_feet" :  true, 
+    "needles" : true,
+     "small"  : false,
+    "big"  : true,
+    "produce_edible_food"  : true,
+     "acorns_or_cones" : true,
+    "sprout_in_clusters" : true
+ },
+
+ "apple_tree": {
+    "spirally_arranged_leaves" :
+false,
+    "flowers" :
+ false,
+     "leaves_with_smooth_margins" :
+ true,
+    "25feet" : 
+ true, 
+    "50-65_feet " :false,
+    "65-200_feet" :  false, 
+    "needles" :
+ false,
+    "small"  :
+ true,
+ "big"  :
+ false,
+ "produce_edible_food"  :
+ true,
+ "acorns_or_cones" : false,
+ "sprout_in_clusters" :
+ false
+ },
+ 
+ "HornBeam": {
+    "spirally_arranged_leaves" : false,
+    "flowers" : true,
+    "leaves_with_smooth_margins" : true,
+    "25feet" : false, 
+     "50-65_feet " :false,
+    "65-200_feet" : true, 
+    "needles" : false,
+    "small"  : true,
+    "big"  : false,
+    "produce_edible_food" : true,
+     "acorns_or_cones" : true,
+    "sprout_in_clusters" :  true }}

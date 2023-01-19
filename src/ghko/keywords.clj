@@ -1,0 +1,13 @@
+(ns ghko.keywords)
+(def set_wc #{"wc", "toilet", "toilets", "bathroom", "bathrooms", "restroom", "restrooms"})
+(def set_dogs #{"dog", "dogs", "pet", "pets"})
+(def set_attractions #{"interests", "attractions", "sights", "events"})
+(def set_biking #{"bike", "biking", "bicycle", "bikes", "bicycles"})
+(def set_skating #{"rollerblade", "rollerskating", "rollerblading", "rollerskates",
+                   "rollerblades", "skating", "skate"})
+(def set_parking #{"parking", "car", ,'("parking", "lot") })
+(def set_sports #{"sport", "sports", "court", "field", "soccer", "sportground","basketball"})
+(def set_playground #{"playground", "playset"})
+(def set_transportation #{"public transport", "transportation","directions" "bus", "tram", "metro", "transport", "mhd", "reach"})
+(def set_website #{"site", "website", '("more", "info"), '("further", "info")
+                   '("more", "information"), '("further", "information"), "link"})
